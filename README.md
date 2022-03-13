@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qureshi Owais</h1>
 <h3 align="center">A passionate Javascript developer from India</h3>
 
-- 🔭 I’m currently working on **google API integration**
+- 🔭 I’m currently working on **REST API Development**
 
 - 🌱 I’m currently learning **MERN Stack**
 
