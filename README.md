@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://www.fiverr.com/users/owaisqureshi91](https://www.fiverr.com/users/owaisqureshi91)
-
 - 📝 I regularly write articles on [https://medium.com/@owaisqureshi](https://medium.com/@owaisqureshi)
 
 - 💬 Ask me about **javascript**
